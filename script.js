@@ -1,7 +1,7 @@
 var a=prompt("Enter UserName");
  var b=prompt("Enter password");
  
-  	if(a== "Nana" && b=="Nana"){
+  	if(a== "Ali Umar fatihah" && b=="AriNa"){
   	    window.location.href="front.html";
 		
   	} 
